@@ -1,5 +1,5 @@
 ### Hi there 👋
-I‘m rtxyd, I am not in coding field at first, but I am still leaning everything from zero, now and then. One day I can make many 😄friends😄 with my works.
+I‘m rtxyd, I am not in coding field at first, but I am still learning everything from zero, now and then. One day I can make many 😄friends😄 with my works.
 <!--
 **rtxyd/rtxyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
